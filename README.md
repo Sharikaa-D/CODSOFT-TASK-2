@@ -101,4 +101,7 @@ I'm learning Python and Data Science at the moment; this project has contributed
 - Building and evaluating regression models
 
   OUTPUT:
+  ![Image](https://github.com/user-attachments/assets/1b533d0b-92d8-4ac0-94ea-52da97b9aa85)
+
+![Image](https://github.com/user-attachments/assets/98cf0f7a-6e62-4aea-8dc3-9c927797a346)
   
